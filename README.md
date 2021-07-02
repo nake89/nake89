@@ -4,3 +4,5 @@
 ![](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux) ![](https://img.shields.io/badge/Editor-VIM-pink?style=for-the-badge&logo=vim)
 # My stack
 ![](https://img.shields.io/badge/Tech-Serverless-ff8cf7?style=for-the-badge&logo=serverless) ![](https://img.shields.io/badge/AWS-Lambda-ffa238?style=for-the-badge&logo=amazonaws) ![](https://img.shields.io/badge/AWS-DynamoDB-ffa238?style=for-the-badge&logo=amazonaws) ![](https://img.shields.io/badge/Lang-TypeScript-blue?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/Frontend-Svelte-ff7438?style=for-the-badge&logo=svelte)
+# Socials
+[![](https://img.shields.io/badge/Follow-Me-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nake89) [![](https://img.shields.io/badge/Blog-kevinkivi.com-blue?style=for-the-badge)](https://kevinkivi.com/)
