@@ -1,5 +1,5 @@
 # Who am I?
-![](https://img.shields.io/badge/Job-Developer-green?style=for-the-badge) ![](https://img.shields.io/badge/👪_Me-Father-6186ff?style=for-the-badge) ![](https://img.shields.io/badge/Status-Husband-3867ff?style=for-the-badge) ![](https://img.shields.io/badge/Pronouns-He/Him-blueviolet?style=for-the-badge) ![](https://img.shields.io/badge/Location-Finland-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Job-Developer-green?style=for-the-badge) ![](https://img.shields.io/badge/👪_Me-Father-6186ff?style=for-the-badge) ![](https://img.shields.io/badge/Status-Husband-3867ff?style=for-the-badge) ![](https://img.shields.io/badge/Location-Finland-blue?style=for-the-badge)
 # What I code with
 ![](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux) ![](https://img.shields.io/badge/Editor-VIM-pink?style=for-the-badge&logo=vim)
 # My stack
